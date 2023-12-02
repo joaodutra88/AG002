@@ -24,7 +24,7 @@
 
 Neste semestre, a AG002 acontecerá na forma de um trabalho prático. Você deverá utilizar seus conhecimentos para, a partir do conjunto de dados proposto, treinar, avaliar e disponibilizar um modelo de aprendizado de máquina para apontar o desfecho de uma partida de jogo da velha.
 
-![Ilustração de jogo da velha](./Aspose.Words.c70245ef-892f-4201-95ed-43384b23fb3e.001.jpeg)
+![Ilustração de jogo da velha](./img.jpeg)
 
 ### 2. Conjunto de Dados
 
